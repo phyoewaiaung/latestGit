@@ -4,8 +4,4 @@ my teacher
 My world
 
 My Universe
-<<<<<<< HEAD
 Another
-=======
-My Time
->>>>>>> 41224488c62cfd43725942ad8201d678dc2d7f89
